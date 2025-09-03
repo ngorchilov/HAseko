@@ -1,0 +1,8 @@
+{
+  "name": "HAseko - Home Assistant Aseko Integration",
+  "render_readme": true,
+  "domains": [
+    "haseko"
+  ],
+  "homeassistant": "2024.6.0"
+}

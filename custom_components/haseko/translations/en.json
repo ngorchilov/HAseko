@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "HAseko - Home Assistant Aseko Integration",
+        "description": "Enter your API key. You can create one at https://account.aseko.cloud/profile/settings/api-keys",
+        "data": {
+          "api_key": "API key"
+        }
+      },
+      "select_devices": {
+        "title": "Select Aseko Devices",
+        "description": "Choose which paired units to add to this Home Assistant instance."
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid API key.",
+      "cannot_connect": "Cannot connect or validate the API key right now."
+    }
+  }
+}
